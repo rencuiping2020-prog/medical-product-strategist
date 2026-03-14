@@ -52,6 +52,13 @@ Level 5
 - hypothesis or preclinical only
 
 Note major limitations (bias, confounding, underpowered, short follow-up).
+Also assess GRADE domains and report key issues:
+- risk of bias
+- inconsistency
+- indirectness
+- imprecision
+- publication bias
+
 
 ### Step 3 - Clinical Significance
 
@@ -77,6 +84,8 @@ Translate evidence into product opportunities. For each viable concept, define:
 
 Estimate likely regulatory route and complexity:
 - FDA Class I/II/III or SaMD
+- FDA pathways: 510(k) (predicate device), De Novo, PMA
+
 - CE MDR / NMPA considerations when relevant
 - expected clinical evidence burden
 
@@ -151,9 +160,13 @@ Return two sections:
     }
   ],
   "regulatory_pathway": {
-    "likely_path": "",
-    "complexity": "",
-    "evidence_burden": ""
+  "likely_path": "",
+  "complexity": "",
+  "evidence_burden": "",
+  "fda_pathway": "",
+  "predicate_device": ""
+},
+
   },
   "commercial_value": {
     "market_size": "",
