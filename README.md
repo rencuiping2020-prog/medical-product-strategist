@@ -58,6 +58,12 @@ Outcomes: ...
 Safety: ...
 ```
 
+## Contributing
+
+1. Open an issue with suggestions, use cases, or corrections.
+2. Fork the repo and submit a PR with your changes.
+3. For large changes, discuss in an issue before implementation.
+
 ## Notes
 
 - Keep evidence separate from product speculation.
